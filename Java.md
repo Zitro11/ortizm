@@ -1,5 +1,5 @@
 # **¿Qué es Java?**  
-Java es uno de los lenguajes de programación más importantes de la actualidad. Tanto para los profesionales que lo dominan como para las empresas que buscan expertos en él, valoran sus muchas propiedades a la hora de crear cualquier desarrollo digital. 
+Java es uno de los lenguajes de programación más importantes de la actualidad. Tanto para los profesionales que lo dominan como para las empresas que buscan expertos en él, valoran sus muchas propiedades a la hora de crear cualquier desarrollo digital.  
 Hoy en día Java es utilizado tanto en centros de datos como en teléfonos móviles, innumerables funciones en Internet, sistemas informáticos… su crecimiento es imparable.  
   
 # **Significado de Java.**  
