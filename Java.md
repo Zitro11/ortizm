@@ -2,7 +2,7 @@
 Java es uno de los lenguajes de programación más importantes de la actualidad. Tanto para los profesionales que lo dominan como para las empresas que buscan expertos en él, valoran sus muchas propiedades a la hora de crear cualquier desarrollo digital.  
 Hoy en día Java es utilizado tanto en centros de datos como en teléfonos móviles, innumerables funciones en Internet, sistemas informáticos… su crecimiento es imparable.  
   
-# **Significado de Java.**  
+# **Significado de Java.**   
 Java tiene muchas definiciones. Una de ellas es la conocida de lenguaje de programación. Efectivamente, fue un lenguaje digital desarrollado para servir de complemento a la plataforma Java de Sun Mycrosystems.  
 Lo que se buscaba era la creación de funciones mediante este lenguaje de programación, que posteriormente pudieran ser aplicadas en otros entornos virtuales compatibles, sin necesidad de crear desde cero la misma codificación.  
 En principio, de hecho, el lenguaje de programación se llamó Oak (roble en inglés), porque Gosling tenía un roble fuera de su oficina. Pero ya estaba registrada esta misma marca en el sector.  
