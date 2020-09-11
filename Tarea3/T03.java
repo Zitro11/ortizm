@@ -1,0 +1,36 @@
+
+class Proceso
+{
+    public static void main(String args[])
+    {
+        int valor1=0;
+        int valor2=1;
+        int valor3=0;
+        int x = 0;
+        System.out.println(valor1);
+        System.out.println(valor2);
+        System.out.println("--------------");
+        //for(int x=1; x<2; x++)
+       // {
+           // int valor3=valor1 + valor2;
+
+           // System.out.println(valor3);
+
+           // valor1=valor2;
+
+           // valor2=valor3;
+       // }
+        while (x<=5)
+        {
+            valor3 = valor1 + valor2;
+            
+            System.out.println(valor3);
+
+            valor1 = valor2;
+            valor2 = valor3;
+
+            x++;
+        }
+
+    }
+}
